@@ -1,5 +1,6 @@
 // mission by randomguy
 #base custom_weapons_randomguy.pop
+#base overclock_cactus_general.pop
 WaveSchedule
 {
 	CanBotsAttackWhileInSpawnRoom no

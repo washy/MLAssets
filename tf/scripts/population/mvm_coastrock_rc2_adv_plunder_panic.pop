@@ -1,6 +1,7 @@
 #base robot_standard.pop
 #base robot_giant.pop
 #base custom_weapons_randomguy.pop
+#base overclock_cactus_general.pop
 
 // Waves by randomguy
 // Credits:
@@ -8,8 +9,8 @@
 // DaMno for Coastrock RC2.
 // Various creators for icons. (Lite, Swordstone, Daan, Eyes being the ones i could track down)
 // Eyes made the armored/standard popping med icon btw, the rest signed their icons.
-// PDA Expert for the giant demoman template.
-// Lite for the tank gimmicks.
+// PDA Expert for the giant grapeshot demoman template.
+// Lite for the parachute tank vscript.
 
 WaveSchedule
 {
